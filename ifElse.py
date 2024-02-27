@@ -13,7 +13,7 @@ else:
     print("E")
 
 age = int(input("Kaç yaşındasın? ")) # eğer kullanıcıdan sayı girmesini istiyorsan int veya float cast etmen gerekir.
-print("Senin yaşın: " + str(age)) # consala bir şey yazdırmak istiyorsan strnin yanına int veya float koyamazsın cast etmen gerekir. DOĞRU.
+print("Senin yaşın: " + str(age)) # consola bir şey yazdırmak istiyorsan strnin yanına int veya float koyamazsın cast etmen gerekir. DOĞRU.
 # print("Senin yaşın: " + age) YANLIŞ.
 
 if age >= 18:
